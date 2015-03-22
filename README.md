@@ -1,7 +1,7 @@
-Crowdmix Coding Exercise
+CrowdMix Coding Exercise
 =================
 
-This is and implementation of the crowdmix exercise, see [CodingExercise.pdf](CodingExercise.pdf)
+This is and implementation of the CrowdMix exercise, see [CodingExercise.pdf](CodingExercise.pdf)
 
 How to run the application
 --------------------------
@@ -13,6 +13,8 @@ Linux/Macos
 Windows
 
     ./sbt.bat run
+
+(wait for the world of scala to download)
 
 Submit commands at the > prompt
 
