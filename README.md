@@ -12,7 +12,7 @@ Linux/Macos
 
 Windows
 
-    ./sbt.bat run
+    sbt.bat run
 
 (wait for the world of scala to download)
 
